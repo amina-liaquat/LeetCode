@@ -1,5 +1,7 @@
-# LeetCode Solutions Repository
-Welcome to my LeetCode Solutions repository! 🎉 Here, I share my journey of solving algorithmic challenges and mastering data structures and problem-solving techniques. 🚀
+# LeetCode 
+Welcome to my LeetCode Solutions repository! 🎉
+
+Here, I share my journey of solving algorithmic challenges and mastering data structures and problem-solving techniques. 🚀
 
 # About This Repository
 
