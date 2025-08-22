@@ -1,26 +1,40 @@
-# LeetCode 
-Welcome to my LeetCode Solutions repository! 🎉
+ ## Welcome to my **LeetCode Solutions Repository**  
+ 
+This repository contains my solutions to **LeetCode coding problems** with a focus on **Data Structures & Algorithms, problem-solving.**.
 
-Here, I share my journey of solving algorithmic challenges and mastering data structures and problem-solving techniques. 🚀
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-161-brightgreen?style=for-the-badge) ![Languages](https://img.shields.io/badge/Languages-Python3%20%7C%20JavaScript%20%7C%20C++-blue?style=for-the-badge)  
 
-# About This Repository
+![Streak](https://img.shields.io/badge/100%20Days-Coding%20Streak-orange?style=for-the-badge) ![Profile](https://img.shields.io/badge/LeetCode-amina__liaquat04-yellow?style=for-the-badge&logo=leetcode)  
 
-This repository contains my solutions to various problems from LeetCode, organized by difficulty, topic, and programming language. I aim to provide clean, efficient, and well-documented code for each problem.
+  
 
-# Problem Categories:
+---
 
-**Easy**:  Focused on basic implementations and algorithm building blocks. <br>
+## About Me  
 
-**Medium**: Balancing complexity and optimization.<br>
+- 👩‍💻 **LeetCode Username** → [amina_liaquat04](https://leetcode.com/u/amina_liaquat04/)  
+- 🧩 **Total Problems Solved** → **161**  
+- 💻 **Languages Used** → Python3 (152), JavaScript (6), C++ (3)  
+- 🎖️ **Badges Earned** → 50 Days, 100 Days (2024)  
+- 🏆 **Global Rank** → 817,802  
 
-**Hard**: Challenging problems requiring deep problem-solving insights. <br>
+---
 
-# Highlights
+## Repository Structure  
 
-**Languages Used:**  Python, JavaScript, Java, C++, and more.
+- **Easy/** → Contains beginner-friendly problems like *Two Sum*, *Palindrome Number*, etc.  
+- **Medium/** → Contains intermediate-level problems like *Add Two Numbers*, *Longest Substring Without Repeating Characters*, etc.  
+- **Hard/** → Contains challenging problems like *Median of Two Sorted Arrays*, *N-Queens*, etc.  
 
-**Topics Covered:** Arrays, Strings, Linked Lists, Trees, Graphs, Dynamic Programming, and more.
+---
 
-**Frequent Updates:** I actively add solutions as I progress on LeetCode. <hr>
 
-Feel free to **star**, **fork**, and share your **feedback**. Let’s collaborate and grow together! 🚀
+## How to Run  
+
+1. Clone the repo:  
+   ```bash
+   git clone https://github.com/amina-liaquat56/LeetCode-Solutions.git
+   cd LeetCode-Solutions
+
+
+
