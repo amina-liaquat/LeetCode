@@ -24,7 +24,7 @@ This repository contains my solutions to **LeetCode coding problems** with a foc
 
 - **Easy/** → Contains beginner-friendly problems like *Two Sum*, *Palindrome Number*, etc.  
 - **Medium/** → Contains intermediate-level problems like *Add Two Numbers*, *Longest Substring Without Repeating Characters*, etc.  
-- **Hard/** → Contains challenging problems like *Median of Two Sorted Arrays*, *N-Queens*, etc.  
+- **Hard/** → Contains challenging problems. 
 
 ---
 
