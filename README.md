@@ -20,14 +20,12 @@ This repository contains my solutions to **LeetCode coding problems** with a foc
 
 ---
 
-## Repository Structure  
-
-- **Easy/** → Contains beginner-friendly problems like *Two Sum*, *Palindrome Number*, etc.  
-- **Medium/** → Contains intermediate-level problems like *Add Two Numbers*, *Longest Substring Without Repeating Characters*, etc.  
-- **Hard/** → Contains challenging problems. 
+## 📂 Repository Structure
+- 🟢 **Easy** → Beginner-friendly problems  
+- 🟡 **Medium** → Moderate difficulty problems  
+- 🔴 **Hard** → Challenging problems  
 
 ---
-
 
 ## How to Run  
 
