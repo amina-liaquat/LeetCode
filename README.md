@@ -8,9 +8,9 @@ This repository contains my solutions to **LeetCode problems**. I’m solving th
 
 ### Repository Structure
 
-- **Easy**  Beginner-friendly problems.  
-- **Medium** More complex problems with optimized solutions.  
-- **Hard** Advanced problems requiring strong algorithmic skills.  
+- **Easy:**  Beginner-friendly problems.  
+- **Medium:** More complex problems with optimized solutions.  
+- **Hard:** Advanced problems requiring strong algorithmic skills.  
 
 ---
 
