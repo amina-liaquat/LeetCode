@@ -15,7 +15,7 @@ This repository contains my solutions to **LeetCode problems**. I’m solving th
 ---
 
 ### Languages Used
-- Python  
+- Python3
 - C++  
 - JavaScript  
 
