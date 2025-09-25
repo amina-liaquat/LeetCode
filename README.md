@@ -2,7 +2,7 @@
 
 ---
 
-This repository contains my solutions to **LeetCode problems**. I’m solving these problems to strengthen my **Data Structures & Algorithms (DSA)**, improve **problem-solving skills**.
+This repository contains my solutions to **LeetCode problems**. I’m solving these problems to strengthen my **Data Structures & Algorithms**, improve **problem-solving skills**.
 
 ---
 
