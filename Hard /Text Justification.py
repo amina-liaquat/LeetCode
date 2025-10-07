@@ -1,4 +1,4 @@
-class Solution:
+class solution:
     def fullJustify(self, words: List[str], maxWidth: int) -> List[str]:
         res = []
         i = 0
