@@ -30,7 +30,7 @@ This repository contains my solutions to **LeetCode problems**. I’m solving th
 - Dynamic Programming  
 - Recursion & Backtracking  
 - Searching & Sorting  
-- Two Pointers / Sliding Window  
+- Two Pointers
 
 ---
 
