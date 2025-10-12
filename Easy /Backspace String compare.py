@@ -1,4 +1,4 @@
-class Solution:
+class solution:
      def backspaceCompare(self, s: str, t: str) -> bool:
          stack_s, stack_t=[],[] #(m+n)
  
