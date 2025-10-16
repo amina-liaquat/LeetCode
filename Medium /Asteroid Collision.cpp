@@ -1,6 +1,6 @@
 class Solution {
 public:
-    vector<int> asteroidCollision(vector<int>& asteroids) {
+    vector<int> asteroidcollision(vector<int>& asteroids) {
         
     }
 };
