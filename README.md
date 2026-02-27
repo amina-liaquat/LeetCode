@@ -34,12 +34,6 @@ This repository contains my solutions to **LeetCode problems**. I’m solving th
 
 ---
 
-### How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/amina-liaquat/LeetCode.git
-
----
 
 
 
